@@ -1,2 +1,2 @@
-!(ссылка)(savateevvi.github.io)
+[ссылка](savateevvi.github.io)
 
