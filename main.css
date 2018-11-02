@@ -1,0 +1,44 @@
+body {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    margin: auto;
+    max-width: 1100px;
+    background-color:lightgray;
+}
+
+.author, .group {
+    text-align: center;
+    margin-left: 40%;
+}
+
+section {
+    margin: auto;
+    margin-top: -10px;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+.lab1 {
+    background-color: lightblue;
+}
+
+.lab2 {
+    background-color: lightcyan;
+}
+
+.lab3 {
+    background-color: lightskyblue;
+}
+
+
+
+
+
+
+
+
+.tiket_text {
+    font-weight: bold;
+}
